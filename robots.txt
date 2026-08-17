@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gurkanozsoy.github.io/tumlevcom/sitemap.xml
