@@ -3,7 +3,7 @@
     <title>Tümlev</title>
     <link href="https://tumlev.com/feed.xml" rel="self" />
     <link href="https://tumlev.com" />
-    <updated>2026-08-17T14:43:57+03:00</updated>
+    <updated>2026-08-17T15:24:55+03:00</updated>
     <author>
         <name>gurkanozsoy</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://tumlev.com/kalkuluse-adanmis-bir-yasam-guillaume-de-lhopital/"/>
         <id>https://tumlev.com/kalkuluse-adanmis-bir-yasam-guillaume-de-lhopital/</id>
+            <category term="Türev"/>
 
         <updated>2026-08-17T14:23:54+03:00</updated>
             <summary type="html">
@@ -44,6 +45,7 @@
         </author>
         <link href="https://tumlev.com/tureve-dair-hatirlatmalar/"/>
         <id>https://tumlev.com/tureve-dair-hatirlatmalar/</id>
+            <category term="Türev"/>
 
         <updated>2026-08-17T14:23:20+03:00</updated>
             <summary type="html">
@@ -143,6 +145,7 @@
         </author>
         <link href="https://tumlev.com/sekant-ve-sekant-kup-integrali/"/>
         <id>https://tumlev.com/sekant-ve-sekant-kup-integrali/</id>
+            <category term="Belirsiz İntegral"/>
 
         <updated>2026-08-17T14:22:51+03:00</updated>
             <summary type="html">
