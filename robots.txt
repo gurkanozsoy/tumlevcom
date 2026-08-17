@@ -1,3 +1,3 @@
 User-agent: *
-Disallow:
+Disallow: /forum/
 Sitemap: https://tumlev.com/sitemap.xml
