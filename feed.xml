@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Tümlev</title>
-    <link href="https://gurkanozsoy.github.io/tumlevcom/feed.xml" rel="self" />
-    <link href="https://gurkanozsoy.github.io/tumlevcom" />
+    <link href="https://tumlev.com/feed.xml" rel="self" />
+    <link href="https://tumlev.com" />
     <updated>2026-08-17T14:23:54+03:00</updated>
     <author>
         <name>gurkanozsoy</name>
     </author>
-    <id>https://gurkanozsoy.github.io/tumlevcom</id>
+    <id>https://tumlev.com</id>
 
     <entry>
         <title>Kalkülüse Adanmış Bir Yaşam: Guillaume de l&#x27;Hôpital</title>
         <author>
             <name>gurkanozsoy</name>
         </author>
-        <link href="https://gurkanozsoy.github.io/tumlevcom/kalkueluese-adanmis-bir-yasam-guillaume-de-lhopital.html"/>
-        <id>https://gurkanozsoy.github.io/tumlevcom/kalkueluese-adanmis-bir-yasam-guillaume-de-lhopital.html</id>
+        <link href="https://tumlev.com/kalkueluese-adanmis-bir-yasam-guillaume-de-lhopital.html"/>
+        <id>https://tumlev.com/kalkueluese-adanmis-bir-yasam-guillaume-de-lhopital.html</id>
 
         <updated>2026-08-17T14:23:54+03:00</updated>
             <summary type="html">
@@ -42,8 +42,8 @@
         <author>
             <name>gurkanozsoy</name>
         </author>
-        <link href="https://gurkanozsoy.github.io/tumlevcom/tuereve-dair-hatirlatmalar.html"/>
-        <id>https://gurkanozsoy.github.io/tumlevcom/tuereve-dair-hatirlatmalar.html</id>
+        <link href="https://tumlev.com/tuereve-dair-hatirlatmalar.html"/>
+        <id>https://tumlev.com/tuereve-dair-hatirlatmalar.html</id>
 
         <updated>2026-08-17T14:23:20+03:00</updated>
             <summary type="html">
@@ -141,8 +141,8 @@
         <author>
             <name>gurkanozsoy</name>
         </author>
-        <link href="https://gurkanozsoy.github.io/tumlevcom/sekant-ve-sekant-kuep-integrali.html"/>
-        <id>https://gurkanozsoy.github.io/tumlevcom/sekant-ve-sekant-kuep-integrali.html</id>
+        <link href="https://tumlev.com/sekant-ve-sekant-kuep-integrali.html"/>
+        <id>https://tumlev.com/sekant-ve-sekant-kuep-integrali.html</id>
 
         <updated>2026-08-17T14:22:51+03:00</updated>
             <summary type="html">
@@ -177,8 +177,8 @@
         <author>
             <name>gurkanozsoy</name>
         </author>
-        <link href="https://gurkanozsoy.github.io/tumlevcom/axbn-bicimindeki-integraller.html"/>
-        <id>https://gurkanozsoy.github.io/tumlevcom/axbn-bicimindeki-integraller.html</id>
+        <link href="https://tumlev.com/axbn-bicimindeki-integraller.html"/>
+        <id>https://tumlev.com/axbn-bicimindeki-integraller.html</id>
             <category term="Belirsiz İntegral"/>
 
         <updated>2026-08-17T14:08:58+03:00</updated>
